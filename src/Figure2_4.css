@@ -1,0 +1,93 @@
+.figure-2-4{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+    height: 100vh; 
+    gap: 20px ; 
+}
+
+.main-image-2-4{
+    width: 700px ; 
+    position: relative ; 
+
+}   
+
+.legend-2-4{
+    width: 600px ; 
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    /* padding-right: 40px ;  */
+}
+
+.interact-2-4{
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    color: darkred;
+
+}
+
+
+
+
+.line{
+    position: absolute ; 
+    left: 57.3% ; 
+    top: 7.0% ; 
+    width: 41.4%;
+    height: 81.8% ; 
+    color: #7fffd477;
+    /* background-color: blueviolet; */
+}
+
+
+.error{
+    position: absolute ; 
+    left: 57.3% ; 
+    top: 7.0% ; 
+    width: 41.4%;
+    height: 81.8% ; 
+    color: #7fffd477 ;
+    z-index: -10
+}
+
+.slider-container1{
+    left: 56.7% ; 
+    top: 18.8% ; 
+    height: 17.9%;
+    width: 35.8% ; 
+    position: absolute ; 
+    /* background-color:lightblue */
+}
+
+.slider-container2{
+    left: 56.7% ; 
+    top: 43.8% ; 
+    height: 17.9%;
+    width: 35.8% ; 
+    position: absolute ; 
+    /* background-color:lightblue */
+}
+.text-container{
+    left: 22.7% ; 
+    top: 0.8% ; 
+    height: 7.9%;
+    width: 15.8% ; 
+    position: absolute ; 
+    display: flex ; 
+    flex-direction: column; 
+    justify-content: flex-start;
+    align-items: start;
+}
+
+.point-container-2-4{
+    left: 5.4% ; 
+    top: 4.6% ; 
+    width: 44.0%;
+    height: 86.8% ;
+    position: absolute ; 
+    /* background-color:lightblue ;  */
+}
+

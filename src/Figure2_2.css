@@ -1,0 +1,80 @@
+.figure-2-2{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+    height: 100vh; 
+    gap: 20px ; 
+}
+
+.main-image-2-2{
+    width: 700px ; 
+    position: relative ; 
+}   
+
+.legend-2-2{
+    width: 600px ; 
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 40px ; 
+}
+
+.interact-2-2{
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    color:darkred
+}
+
+
+
+.line-2-2{
+    position: absolute ; 
+    left: 6.9% ; 
+    top: 2.2% ; 
+    width: 41.4%;
+    height: 45% ; 
+    color: #7fffd477
+}
+
+
+.error-2-2{
+    position: absolute ; 
+    left: 6.9% ; 
+    top: 2.2% ; 
+    width: 41.4%;
+    height: 45% ; 
+    color: #7fffd477 ;
+    z-index: -10
+}
+
+.slider-container1-2-2{
+    left: 56.7% ; 
+    top: 18.8% ; 
+    height: 17.9%;
+    width: 35.8% ; 
+    position: absolute ; 
+    /* background-color:lightblue */
+}
+
+.slider-container2-2-2{
+    left: 56.7% ; 
+    top: 43.8% ; 
+    height: 17.9%;
+    width: 35.8% ; 
+    position: absolute ; 
+    /* background-color:lightblue */
+}
+.text-container-2-2{
+    left: 69.7% ; 
+    top: 83.8% ; 
+    height: 7.9%;
+    width: 15.8% ; 
+    position: absolute ; 
+    display: flex ; 
+    flex-direction: column; 
+    justify-content: flex-start;
+    align-items: start;
+}
+

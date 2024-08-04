@@ -1,0 +1,210 @@
+.figure-3-3{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+    height: 100vh; 
+    gap: 20px ; 
+}
+
+.main-image-3-3{
+    width: 700px ; 
+    position: relative ; 
+}   
+
+.legend-3-3{
+    width: 600px ; 
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 40px ; 
+}
+
+.interact-3-3{
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    color:darkred
+}
+
+
+
+
+
+.slider-container1-3-3{
+    left: 72.7% ; 
+    top: 0.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container2-3-3{
+    left: 90% ; 
+    top: 0.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container3-3-3{
+    left: 72.7% ; 
+    top: 12.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container4-3-3{
+    left: 90% ; 
+    top: 12.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container5-3-3{
+    left: 72.7% ; 
+    top: 24.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container6-3-3{
+    left: 90% ; 
+    top: 24.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container7-3-3{
+    left: 72.7% ; 
+    top: 42.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container8-3-3{
+    left: 90.0%; 
+    top: 42.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container9-3-3{
+    left: 72.7% ; 
+    top: 54.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container10-3-3{
+    left: 90.0% ; 
+    top: 54.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+
+.function1-3-3{
+    position: absolute ; 
+    left: 2.8% ; 
+    top: 2.6% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.function2-3-3{
+    position: absolute ; 
+    left: 24.9% ; 
+    top: 2.6% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function3-3-3{
+    position: absolute ; 
+    left: 46.9% ; 
+    top: 2.6% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function4-3-3{
+    position: absolute ; 
+    left: 2.8% ; 
+    top: 37.3% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function5-3-3{
+    position: absolute ; 
+    left: 24.9% ; 
+    top: 37.3% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function6-3-3{
+    position: absolute ; 
+    left: 46.9% ; 
+    top: 37.3% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+
+.function7-3-3{
+    position: absolute ; 
+    left: 2.8% ; 
+    top: 72.6% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function8-3-3{
+    position: absolute ; 
+    left: 24.9% ;  
+    top: 72.6% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function9-3-3{
+    position: absolute ; 
+    left: 46.9% ; 
+    top: 72.6% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}
+
+.function10-3-3{
+    position: absolute ; 
+    left: 79.4% ; 
+    top: 72.3% ; 
+    width: 19.8%;
+    height: 23.3% ; 
+    color: #7fffd477;
+    z-index: -10
+    /* background-color: #7fffd477 */
+}

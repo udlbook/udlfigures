@@ -1,0 +1,65 @@
+
+
+.slider-background{
+    position:absolute ; 
+    /* background-color: rgb(223, 154, 50); */
+    /* width: 100% ;  */
+}
+
+.slider-button{
+    position: absolute ; 
+    width: 100% ; 
+}
+
+.slider-value-container{
+    /* height: 100% ;   */
+    /* background-color: lightcoral; */
+    display: flex ; 
+    flex-direction: row; 
+    justify-content: flex-start;
+    align-items: end;
+}
+.slider-value{
+    position: relative ; 
+    width: 20% ; 
+    /* background-color: bisque; */
+}
+
+
+.circle{
+    position:absolute ; 
+}
+
+.slider-container{
+    width: 100% ; 
+    height: 30% ;
+    /* background-color: green; */
+}
+
+.slider-and-labels{
+    width: 100% ; 
+    display: flex; 
+    flex-direction: column ; 
+    justify-content: flex-start;
+    position: relative ; 
+}
+
+.min-max-container{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100% ; 
+    /* background-color:aquamarine; */
+}
+
+.title{
+    padding-top: 3%
+}
+
+.min-value{
+
+}
+
+.max-value{
+
+}

@@ -1,0 +1,96 @@
+.figure-4-1{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+    height: 100vh; 
+    gap: 20px ; 
+}
+
+.main-image-4-1{
+    width: 550px ; 
+    position: relative ; 
+}   
+
+.legend-4-1{
+    width: 700px ; 
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    /* padding-right: 40px ;  */
+}
+
+.interact-4-1{
+    font-size: 13px; 
+    width: 700px ; 
+    text-align: justify;
+    text-justify: inter-word;
+    color:darkred
+} 
+
+.accordion1-4-1{
+    position: absolute ; 
+    left: 8.4% ; 
+    top: 27.2% ; 
+    width: 38.8%;
+    height: 29.9% ; 
+    color: #7fffd477;
+    /* z-index: 10; */
+    /* background-color: #7fffd477 */
+}
+
+
+
+.lines1-4-1{
+    position: absolute ; 
+    left: 9.6% ; 
+    top: 28.4% ; 
+    width: 36.2%;
+    height: 27.1% ; 
+    /* color: #7fffd477; */
+    /* z-index: 10; */
+    /* background-color: #7fffd477 */
+}
+
+.accordion2-4-1{
+    position: absolute ; 
+    left: 57.7% ; 
+    top: 27.2% ; 
+    width: 38.8%;
+    height: 29.9% ; 
+    color: #7fffd477;
+    /* z-index: 10; */
+    /* background-color: #7fffd477 */
+}
+
+.lines2-4-1{
+    position: absolute ; 
+    left: 58.9% ; 
+    top: 28.4% ; 
+    width: 36.2%;
+    height: 27.1% ; 
+    /* color: #7fffd477; */
+    /* z-index: 10; */
+    /* background-color: #7fffd477 */
+}
+
+.function1-4-1{
+    position: absolute ;
+    left: 36.9% ; 
+    top: 66.6% ; 
+    width: 36.2%;
+    height: 27.1% ; 
+       /* background-color: #7fffd477 */
+}
+
+
+
+
+.point-container{
+    left: 9.6% ; 
+    top: 28.4% ; 
+    width: 36.2%;
+    height: 27.1% ; 
+    position: absolute ; 
+    /* background-color:lightblue ;  */
+}

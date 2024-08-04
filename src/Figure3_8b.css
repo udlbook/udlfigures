@@ -1,0 +1,300 @@
+.figure-3-8b{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+    height: 100vh; 
+    gap: 20px ; 
+}
+
+.main-image-3-8b{
+    width: 900px ; 
+    position: relative ; 
+}   
+
+.legend-3-8b{
+    width: 700px ; 
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 40px ; 
+}
+
+.interact-3-8b{
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    color:darkred
+} 
+
+.slider-container18_b{
+    left: 56% ; 
+    top: 3.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container28_b{
+    left: 73.0% ; 
+    top: 3.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container38_b{
+    left: 90% ; 
+    top: 3.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container48_b{
+    left: 56% ; 
+    top: 15.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container58_b{
+    left: 73.0% ; 
+    top: 15.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container68_b{
+    left: 90% ; 
+    top: 15.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container78_b{
+    left: 56% ; 
+    top: 27.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container88_b{
+    left: 73.0%; 
+    top: 27.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+.slider-container98_b{
+    left: 90% ; 
+    top: 27.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container108_b{
+    left: 64.5% ; 
+    top: 39.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+
+.slider-container118_b{
+    left: 81.5% ; 
+    top: 39.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container128_b{
+    left: 64.5% ; 
+    top: 49.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+.slider-container138_b{
+    left: 81.5% ; 
+    top: 49.8% ; 
+    width: 15.8% ; 
+    position: absolute ; 
+}
+
+
+
+.contourplot-1-8b{
+    position: absolute ; 
+    left:3.2% ; 
+    top: 6.0% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.contourplot-2-8b{
+    position: absolute ; 
+    left: 20.3% ; 
+    top: 6.0% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.contourplot-3-8b{
+    position: absolute ; 
+    left: 37.4% ; 
+    top: 6.0% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.contourplot-4-8b{
+    position: absolute ; 
+    left: 3.2% ; 
+    top: 38.9% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.line4-8b{
+    position: absolute ; 
+    left: 3.2% ; 
+    top: 38.9% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}
+
+
+.contourplot-5-8b{
+    position: absolute ; 
+    left: 20.3% ; 
+    top: 38.9% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.line5-8b{
+    position: absolute ; 
+    left: 20.3% ; 
+    top: 38.9% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}
+
+
+
+.contourplot-6-8b{
+    position: absolute ; 
+    left: 37.4% ; 
+    top: 38.9% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.line6-8b{
+    position: absolute ; 
+    left: 37.4% ; 
+    top: 38.9% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}
+
+.contourplot-7-8b{
+    position: absolute ; 
+    left: 3.2% ; 
+    top: 71.6% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.line7-8b{
+    position: absolute ; 
+    left: 3.2% ; 
+    top: 71.6% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}
+.contourplot-8-8b{
+    position: absolute ; 
+    left: 20.3% ;  
+    top: 71.6% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.line8-8b{
+    position: absolute ; 
+    left: 20.3% ;  
+    top: 71.6% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}
+.contourplot-9-8b{
+    position: absolute ; 
+    left: 37.4% ; 
+    top: 71.6% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+.line9-8b{
+    position: absolute ; 
+    left: 37.4% ; 
+    top: 71.6% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}
+
+.contourplot-10-8b{
+    position: absolute ; 
+    left: 69.4% ; 
+    top: 71.6% ; 
+    width: 15.2%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -10;
+    /* background-color: #7fffd477 */
+}
+
+
+.line10-8b{
+    position: absolute ; 
+    left: 69.4% ; 
+    top: 71.4% ; 
+    width: 15.1%;
+    height: 23.8% ; 
+    color: #7fffd477;
+    z-index: -9;
+}

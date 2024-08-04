@@ -1,0 +1,70 @@
+
+.figure-6-4{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center ;
+    justify-content: center;
+    height: 100vh; 
+    gap: 20px ; 
+}
+
+.main-image-6-4{
+    width: 700px ; 
+    position: relative ; 
+}   
+
+.legend-6-4{
+    width: 600px ; 
+    font-size: 13px; 
+    text-align: justify;
+    text-justify: inter-word;
+    /* padding-right: 40px ;  */
+}
+
+.interact-6-4{
+    font-size: 13px; 
+    width: 600px ; 
+    text-align: justify;
+    text-justify: inter-word;
+    color:darkred
+} 
+
+.function1-6-4{
+    position: absolute ; 
+    left: 59.2% ; 
+    top: 19.2% ; 
+    width: 37.4%;
+    height: 63.5% ; 
+    color: #7fffd477;
+    /* background-color:aqua */
+}
+
+.figure-6-2{
+    width: 100% ; 
+    /* background-color: antiquewhite; */
+}
+
+
+
+.point-container-6-4{
+    left: 1.7% ; 
+    top: 2.3% ; 
+    width: 49.9%;
+    height: 92.3% ;
+    position: absolute ; 
+    z-index:100;
+    /* background-color:lightblue ;  */
+}
+
+.text-container-6-4{
+    left: 72.7% ; 
+    top: 12.8% ; 
+    height: 7.9%;
+    width: 15.8% ; 
+    position: absolute ; 
+    display: flex ; 
+    flex-direction: column; 
+    justify-content: flex-start;
+    align-items: start;
+}
+
