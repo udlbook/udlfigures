@@ -28,11 +28,11 @@ const Figure3_8 = () => {
                 </div>
 
                 <div className="slider-container2_3_8a">
-                    <Slider slider_position={param3} min_val={-2.0} max_val={2.0} sliderCallBack={(value)=>{set_param3(value)}} name='Slope, $\phi_1$'/>
+                    <Slider slider_position={param2} min_val={-2.0} max_val={2.0} sliderCallBack={(value)=>{set_param2(value)}} name='Slope, $\phi_1$'/>
                 </div>
 
                 <div className="slider-container3_3_8a">
-                    <Slider slider_position={param2} min_val={-2.0} max_val={2.0} sliderCallBack={(value)=>{set_param2(value)}} name='Slope, $\phi_2$'/>
+                    <Slider slider_position={param3} min_val={-2.0} max_val={2.0} sliderCallBack={(value)=>{set_param3(value)}} name='Slope, $\phi_2$'/>
                 </div>
             </div>
             <div className="legend-3-8a">

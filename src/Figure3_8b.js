@@ -13,12 +13,12 @@ const Figure3_8b = ({activation_type="ReLU"}) => {
     const [param3, set_param3] = useState(0.5)
 
     const [param4, set_param4] = useState(-0.3)
-    const [param5, set_param5] = useState(-0.1)
-    const [param6, set_param6] = useState(0.9)
+    const [param5, set_param5] = useState(0.9)
+    const [param6, set_param6] = useState(-0.1)
 
     const [param7, set_param7] = useState(0.2)
-    const [param8, set_param8] = useState(-0.7)
-    const [param9, set_param9] = useState(0.2)
+    const [param8, set_param8] = useState(0.2)
+    const [param9, set_param9] = useState(-0.7)
 
     const [param10, set_param10] = useState(0.4)
     const [param11, set_param11] = useState(-1)
@@ -58,9 +58,9 @@ const Figure3_8b = ({activation_type="ReLU"}) => {
         return line
     }
 
-    const line1 = compute_line(param1,param2,param3)
-    const line2 = compute_line(param4,param5,param6)
-    const line3 = compute_line(param7,param8,param9)
+    const line1 = compute_line(param1,param3,param2)
+    const line2 = compute_line(param4,param6,param5)
+    const line3 = compute_line(param7,param9,param8)
     const axis = {min_x:-1, max_x:1, min_y:-1, max_y:1}
 
     return (
