@@ -34,9 +34,9 @@ const Figure3_8b = ({activation_type="ReLU"}) => {
         activation = (x) => {return x>0 *1.0001}
     }
 
-    const formula1 = (x,y)=> { return param1 + param2 * x + param3 * y}
-    const formula2 = (x,y)=> { return param4 + param5 * x + param6 * y }
-    const formula3 = (x,y)=> { return param7 + param8 * x + param9 * y }
+    const formula1 = (x,y)=> { return param1 + param3 * x + param2 * y}
+    const formula2 = (x,y)=> { return param4 + param6 * x + param5 * y }
+    const formula3 = (x,y)=> { return param7 + param9 * x + param8 * y }
     const formula4 = (x,y)=> { return activation(formula1(x,y))}
     const formula5 = (x,y)=> { return activation(formula2(x,y)) }
     const formula6 = (x,y)=> { return activation(formula3(x,y)) }
