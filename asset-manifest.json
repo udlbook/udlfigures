@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/udlfigures/static/css/main.ae9dfce5.css",
-    "main.js": "/udlfigures/static/js/main.524c9b48.js",
+    "main.js": "/udlfigures/static/js/main.8e66e4ee.js",
     "static/media/book_cover.jpg": "/udlfigures/static/media/book_cover.e28b0ebfa37a95048879.jpg",
     "index.html": "/udlfigures/index.html",
     "main.ae9dfce5.css.map": "/udlfigures/static/css/main.ae9dfce5.css.map",
-    "main.524c9b48.js.map": "/udlfigures/static/js/main.524c9b48.js.map"
+    "main.8e66e4ee.js.map": "/udlfigures/static/js/main.8e66e4ee.js.map"
   },
   "entrypoints": [
     "static/css/main.ae9dfce5.css",
-    "static/js/main.524c9b48.js"
+    "static/js/main.8e66e4ee.js"
   ]
 }
